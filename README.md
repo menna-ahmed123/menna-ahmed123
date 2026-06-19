@@ -19,62 +19,60 @@
 
 > Core technologies, programming languages, and design tools that I use.
 
-<table>
+<table cellpadding="12" cellspacing="4">
   <!-- Row 1: Cross-Platform & Design Core -->
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" /></a>
-      <br>Flutter
+      <br><strong>Flutter</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" /></a>
-      <br>Dart
+      <br><strong>Dart</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /></a>
-      <br>Figma
+      <br><strong>Figma</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" /></a>
-      <br>Firebase
+      <br><strong>Firebase</strong>
     </td>
   </tr>
   <!-- Row 2: Native Languages & Core CS -->
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" /></a>
-      <br>Kotlin
+      <br><strong>Kotlin</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
-      <br>Java
+      <br><strong>Java</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /></a>
-      <br>C++
+      <br><strong>C++</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /></a>
-      <br>VS Code
+      <br><strong>VS Code</strong>
     </td>
   </tr>
-  <!-- Row 3: Database & Tools -->
+  <!-- Row 3: IDEs & Design -->
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
-      <br>Git
+      <br><strong>Git</strong>
     </td>
-    <td align="center" width="96">
-      <a href="#menna-tech"><img src="https://images.g2andco.com/hive-database-icon.png" width="48" height="48" alt="Hive" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matcha/matcha-original.svg';" /></a>
-      <br>Hive DB
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" /></a>
-      <br>Android Studio
+      <br><strong>Android Studio</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="48" height="48" alt="Adobe XD" /></a>
-      <br>Adobe XD
+      <br><strong>Adobe XD</strong>
     </td>
+    <!-- خلية فارغة متناسقة لتثبيت أبعاد الجدول الشاشات الكبيرة -->
+    <td align="center" width="110"></td>
   </tr>
 </table>
