@@ -58,12 +58,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">GitHub Stats</h2>
-
-> My open-source contributions and development activity.
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=menna-ahmed123&show_icons=true&theme=visual_studio_dark" alt="Menna's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=menna-ahmed123&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180" />
-</p>
