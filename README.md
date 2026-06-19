@@ -17,44 +17,64 @@
 
 <h2 align="left" id="menna-tech">Favorite Tech & Tools</h2>
 
-> Core technologies and design tools that I use to bring ideas to life.
+> Core technologies, programming languages, and design tools that I use.
 
 <table>
+  <!-- Row 1: Cross-Platform & Design Core -->
   <tr>
-    <!-- Flutter -->
     <td align="center" width="96">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" /></a>
       <br>Flutter
     </td>
-    <!-- Dart -->
     <td align="center" width="96">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" /></a>
       <br>Dart
     </td>
-    <!-- Figma -->
     <td align="center" width="96">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /></a>
       <br>Figma
     </td>
-    <!-- Adobe XD -->
-    <td align="center" width="96">
-      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="48" height="48" alt="Adobe XD" /></a>
-      <br>Adobe XD
-    </td>
-    <!-- Android Studio -->
-    <td align="center" width="96">
-      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" /></a>
-      <br>Android Studio
-    </td>
-    <!-- Firebase -->
     <td align="center" width="96">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" /></a>
       <br>Firebase
     </td>
-    <!-- Git -->
+  </tr>
+  <!-- Row 2: Native Languages & Core CS -->
+  <tr>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" /></a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /></a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /></a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /></a>
+      <br>VS Code
+    </td>
+  </tr>
+  <!-- Row 3: Database & Tools -->
+  <tr>
     <td align="center" width="96">
       <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://images.g2andco.com/hive-database-icon.png" width="48" height="48" alt="Hive" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/matcha/matcha-original.svg';" /></a>
+      <br>Hive DB
+    </td>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" /></a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#menna-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="48" height="48" alt="Adobe XD" /></a>
+      <br>Adobe XD
     </td>
   </tr>
 </table>
